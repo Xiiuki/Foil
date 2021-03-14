@@ -1,0 +1,6 @@
+DateTime==4.3
+jupyterlab==3.0.10
+requests==2.25.1
+schedule==1.0.0
+pysqlite3
+
