@@ -3,7 +3,7 @@
 
 ![foil](IMG/Readmefoil.jpg)
 
-### [GitLab version](git@gitlab.com:simplon-dev-data-nantes-2020/brief-backup-bdd.git) | [GitHub version](https://github.com/Xiiuki/Foil)
+### [GitLab version](https://gitlab.com/simplon-dev-data-nantes-2020/brief-backup-bdd/-/tree/Matthias_Mews-Joris_Tessier/) | [GitHub version](https://github.com/Xiiuki/Foil)
 
 ## <br> Collab : </br>
 
